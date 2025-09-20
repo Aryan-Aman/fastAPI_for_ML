@@ -1,5 +1,5 @@
 from fastapi import FastAPI, HTTPException
-from models import Item
+from models_validn import Item
 from typing import List
 
 app = FastAPI()
